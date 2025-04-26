@@ -1,0 +1,1 @@
+# Spatiotemporal-Data-Mining-for-Smart-Cities-A-Case-Study-of-San-Jose-California
